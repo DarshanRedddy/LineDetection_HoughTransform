@@ -54,5 +54,5 @@ Original | Detected Lines
 1. Open MATLAB.  
 2. Place all files in the same folder.  
 3. Run either script:...
-
+>>>>
 ```matlab
